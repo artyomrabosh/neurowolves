@@ -1,0 +1,2 @@
+!pip3 install transformers==4.5.1
+!pip install -q torch==1.4.0 -f https://download.pytorch.org/whl/cu101/torch_stable.html
